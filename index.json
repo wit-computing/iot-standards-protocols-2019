@@ -1,0 +1,501 @@
+
+
+
+  {
+  
+  
+    "properties" : {},
+  
+  "type" : "course",
+  "title" : "IoT Protocols and Standards 2019 ",
+  "img" : "",
+  "videoid" : "",
+  "objectives" : "",
+  "folder" : "iot-standards-protocols-2019",
+  "link" : "index.html",
+  "los": [
+   ]
+,
+  "topics" : [  {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Introduction ",
+  "img" : "topic.jpg",
+  "videoid" : "",
+  "objectives" : "<p>Week 1</p>",
+  "folder" : "topic-01",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Overview  ",
+  "img" : "talk1.png",
+  "videoid" : "none",
+  "objectives" : "<p>Module overview</p>",
+  "folder" : "talk-1",
+  "link" : "talk1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " IoT Introduction ",
+  "img" : "talk-1.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>Introduction to IoT</p>",
+  "folder" : "talk-2",
+  "link" : "talk-1.pdf",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Sensors & Data Conversion ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>Week 2</p>",
+  "folder" : "topic-02",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Sensors Introduction ",
+  "img" : "talk-1.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>Introduction to Sensors for IoT</p>",
+  "folder" : "talk-1",
+  "link" : "talk-1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Data Conversion ",
+  "img" : "talk-2.png",
+  "videoid" : "SFkcqzwt_AM",
+  "objectives" : "<p>Analog to Digital(ADC) and Digital to Analog(DAC) conversion</p>",
+  "folder" : "talk-2",
+  "link" : "talk-2.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Data Conversion Lab ",
+  "img" : "talk-2.png",
+  "videoid" : "SFkcqzwt_AM",
+  "objectives" : "<p>Analog to Digital(ADC) and Digital to Analog(DAC) lab</p>",
+  "folder" : "talk-3",
+  "link" : "talk-2.pdf",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Serial Comms ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>This topic provides a quick overview of IoT protocols</p>",
+  "folder" : "topic-03",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Serial Bus Comms ",
+  "img" : "serial.png",
+  "videoid" : "VQn-0_uy3bo",
+  "objectives" : "<h1>Serial Bus Comms</h1>",
+  "folder" : "talk-1",
+  "link" : "serial.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Thermistor and BME680 Temperature and Humidity Sensor ",
+  "img" : "calib.png",
+  "videoid" : "none",
+  "objectives" : "<p>Calibration &amp; Environment Sensors</p>",
+  "folder" : "talk-2",
+  "link" : "calib.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Assignment-1",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>You will create your own IoT solution using the technologies covered in class!</p>",
+  "folder" : "book-1-assignment-1",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Git ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>Git basics overview</p>",
+  "folder" : "topic-04",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Git Overview ",
+  "img" : "git.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>This talk provides a brief git overview - just enought to get through the assignments and labs!</p>",
+  "folder" : "talk-1",
+  "link" : "git.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "git-lab-01",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>The objective of this lab is to learn how to  use Git to manage you project files and colabolrate with others.</p>",
+  "folder" : "book-git-lab",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Messaging and Web APIs ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>MQTT · HTTP · REST</p>",
+  "folder" : "topic-05",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Web APIs & HTTP ",
+  "img" : "http.png",
+  "videoid" : "_G7JGB5NaYk",
+  "objectives" : "<p>HTTP · Web APIs</p>",
+  "folder" : "talk-01",
+  "link" : "http.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Web APIs in IoT ",
+  "img" : "http2.png",
+  "videoid" : "au5sJBpaF20",
+  "objectives" : "<p>Data Represenatation · JSON/XML</p>",
+  "folder" : "talk-02",
+  "link" : "http2.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " MQTT and HTTP ",
+  "img" : "mqtt.png",
+  "videoid" : "CWOSgD_iiUY",
+  "objectives" : "<p>Data Represenatation · Publish Subscribe · Web APIs</p>",
+  "folder" : "talk-03",
+  "link" : "mqtt.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Messaging Lab",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Use HTTP and MQTT to connect a device</p>",
+  "folder" : "book-a",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Internet of Things Platforms ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>Wia · Thingspeak</p>",
+  "folder" : "topic-06",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " IoT Platforms ",
+  "img" : "platforms1.png",
+  "videoid" : "ElMxinY48fs",
+  "objectives" : "<p>Characteristics · IoT Platform Examples</p>",
+  "folder" : "talk-01",
+  "link" : "platforms1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Thingspeak Lab ",
+  "img" : "thingspeak.png",
+  "videoid" : "none",
+  "objectives" : "<p>Channels · Analysis · Reactions</p>",
+  "folder" : "talk-02",
+  "link" : "thingspeak.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Wia Lab",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>In this tutorial you will use Wia.io to collect and display data from the RPi. You will also use Wia to send commands to a device. </p>",
+  "folder" : "book-a",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " IoT Mobile Apps ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>Blynk</p>",
+  "folder" : "topic-07",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Mobile Device IoT ",
+  "img" : "talk-1.png",
+  "videoid" : "l126_0puCEo",
+  "objectives" : "<p>Blynk · Mobile Apps · Widgets</p>",
+  "folder" : "talk-1",
+  "link" : "talk-1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Blynk",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Remote Hardware Control via Mobile App.</p>",
+  "folder" : "book-a",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " Wireless Communication Networks ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>WiFi · Bluetooth · BLE · LPWAN</p>",
+  "folder" : "topic-08",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Bluetooth LE & 802.11 (WiFi) ",
+  "img" : "wireless1.png",
+  "videoid" : "none",
+  "objectives" : "<p>Wireless Networks · BLE · WiFi · MAC Address</p>",
+  "folder" : "talk-1",
+  "link" : "wireless1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Presence Detector 1",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>WiFi · MAC Address · ARP Scan · CronTab</p>",
+  "folder" : "book-a",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "BLE",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Bluez · Smartphone · Raspberry Pi · SenseHAT</p>",
+  "folder" : "book-b",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  }
+ ]
+  }
+

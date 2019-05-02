@@ -1,0 +1,35 @@
+
+
+
+  {
+  
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Assignment-1",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>You will create your own IoT solution using the technologies covered in class!</p>",
+  "folder" : "book-1-assignment-1",
+  "link" : "index.html",
+  "los": [
+   ]
+,
+  "chapters" : [
+  
+    {
+    "title": "## Assignment 1 Specification",
+    "shortTitle": "Assignment-1",
+    "contentMd" : "## Assignment 1 Specification\r\nYou will create your own IoT solution using the technologies covered in class!"
+    },
+  
+    {
+    "title": "## Assignment Specification",
+    "shortTitle": "01",
+    "contentMd" : "## Assignment Specification\r\nDownload the specification from [here](./res/assignment_2_spec.pdf) "
+    }
+  
+  ]
+  }
+

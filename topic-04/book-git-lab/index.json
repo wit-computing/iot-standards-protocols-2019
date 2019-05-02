@@ -1,0 +1,41 @@
+
+
+
+  {
+  
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "git-lab-01",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>The objective of this lab is to learn how to  use Git to manage you project files and colabolrate with others.</p>",
+  "folder" : "book-git-lab",
+  "link" : "index.html",
+  "los": [
+   ]
+,
+  "chapters" : [
+  
+    {
+    "title": "#Objectives",
+    "shortTitle": "git-lab-01",
+    "contentMd" : "#Objectives\r\n\r\nThe objective of this lab is to learn how to  use Git to manage you project files and colabolrate with others."
+    },
+  
+    {
+    "title": "#Get Git",
+    "shortTitle": "01",
+    "contentMd" : "#Get Git\r\n\r\n####Windows OS \r\nDownload from [here](https://git-scm.com/) which includes Git, and use the Git Shell for your terminal.\r\n\r\n\r\n####Mac \r\nYou can install Git automatically. To do this, open the Terminal application from spotlight and type `git`. This will prompt Git to install the rest of the command line tools for Git. This should only take a few minutes. It will ask if you would like to download Xcode, which you can ignore.\r\n\r\n####Linux\r\n\r\nYou can use the basic package-management tool that comes with your distribution. For Fedora use:\r\n\r\n``$ sudo yum install git-all``\r\n\r\nFor Debian-based distributions use:\r\n\r\n``$ sudo apt-get install git-all``\r\n\r\n"
+    },
+  
+    {
+    "title": "#Get Git-It!",
+    "shortTitle": "02",
+    "contentMd" : "#Get Git-It!\r\n\r\n \r\n **git-it** is a Desktop App.\r\n Please go [here](https://github.com/jlord/git-it-electron) and follow the instructions for your OS.\r\n\r\n**NOTE:** You only need to complete the tutorial up to the *Remote Control* step.\r\n"
+    }
+  
+  ]
+  }
+
