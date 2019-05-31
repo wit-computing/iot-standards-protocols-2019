@@ -4,7 +4,7 @@
   {
   
   
-    "properties" : {},
+    "properties" : {"highlightstyle":"railscasts","moodle":"https://moodle.wit.ie/mod/url/view.php?id=2855815","courseurl":"https://wit-computing.github.io/iot-standards-protocols-2019/","credits":"Dr Frank Walsh (WIT)"},
   
   "type" : "course",
   "title" : "IoT Protocols and Standards 2019 ",
